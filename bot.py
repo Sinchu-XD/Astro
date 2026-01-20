@@ -9,9 +9,9 @@ from cities import CITIES
 from states import STATES
 
 
-API_ID = 123456
-API_HASH = "YOUR_API_HASH"
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+API_ID = 29170645           
+API_HASH = "0498ddbf04f71f7d91018c27140b82b3"
+BOT_TOKEN = "7807234243:AAE5XAhwYesVNu9p3Zbs9f3fkrvlapXVTmI"
 
 app = Client("astro_final_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
